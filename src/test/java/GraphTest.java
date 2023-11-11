@@ -8,7 +8,7 @@ public class GraphTest {
         int[][] edges = {
                 {0, 2, 5},
                 {0, 1, 2},
-                {1, 2, 3},
+                {1, 2, 1},
                 {3, 0, 3}
         };
         Graph graph = new Graph(n, edges);
